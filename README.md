@@ -13,6 +13,7 @@ Everything here is one research arc, built spec-first with Claude Code as the im
 | **[Kernos](https://github.com/5000Stadia/Kernos)** | An agentic OS — memory, safety, honesty, and self-maintenance as *infrastructure*, not prompt text. Cohort architecture, event-sourced dual memory, kernel-level dispatch gates. Empty repo to **v1.0 research-complete** in one quarter; 17 published design principles. |
 | **[pattern-buffer](https://github.com/5000Stadia/pattern-buffer)** | A **platform-neutral world-tracking engine**: one append-only assertion log; state, knowledge, and history as disposable projections. Real-world tracking for business-class agents and interactive fiction are the same machine under one policy switch. |
 | **[Construct Projector](https://github.com/5000Stadia/construct)** | The showcase: an interactive-fiction engine where the world's truth is a database and the model is only a voice. Spoilers and NPC secrets are *structurally absent* from context windows — never merely forbidden. |
+| **[AgentPost](https://github.com/5000Stadia/agentpost)** | A trusted-local post office for running agents — durable Markdown mailboxes, agent discovery, and token-free notifications across Claude Code, Codex, and Python agents. Extracted from the inter-agent inbox workflow that coordinates the three projects above, and now their sole development-agent channel. |
 
 **The through-line:** agents can't reliably self-enforce constraints or self-maintain memory — so the substrate must. The agent thinks; the kernel remembers, notices, routes, and protects.
 
