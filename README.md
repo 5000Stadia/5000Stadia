@@ -16,7 +16,7 @@ Everything here is one research arc, built spec-first with Claude Code implement
 | **[AgentPost](https://github.com/5000Stadia/agentpost)** | A durable local post office for concurrently running agents. Persistent CLI-neutral identities, Markdown mailboxes, idle or immediate delivery. Waiting and scheduling are algorithmic and token-free, so model usage begins only when an agent actually processes mail. |
 | **[AgentBridge](https://github.com/5000Stadia/agentbridge)** | A documented working structure for a project run by one human and a small number of agent seats. The human decides; one seat holds the chart and never the wheel; one builds; one falsifies both the work and whether it is still the right work. The reviewer never receives the builder's private reading of the intention, which is what makes its judgment independent. |
 
-**The through-line:** agents can't reliably self-enforce constraints or self-maintain memory , so the substrate must. The agent thinks; the kernel remembers, notices, routes, and protects.
+**The through-line:** agents can't reliably self-enforce constraints or self-maintain memory, so the substrate must. The agent thinks; the kernel remembers, notices, routes, and protects.
 
 **Twenty-three years, one client relationship the whole length of it.** Twelve independent clients across dental, audiology, chiropractic, legal, publishing, distribution, automotive, trades, transportation, retail, and professional practice have written about the work.
 
