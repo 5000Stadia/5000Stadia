@@ -1,4 +1,4 @@
-# Kabe Miller
+# Kabe Miller 
 
 **AI systems architect. Twenty-three years of walking into unfamiliar systems and imposing reliable order, now doing it for agentic AI.**
 
